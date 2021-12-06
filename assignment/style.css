@@ -1,0 +1,41 @@
+.container-1 {
+	display: flex;
+	padding-top: 100px;
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 10px;
+	background-color: cornflowerblue;
+}
+
+.content {
+}
+
+.headerbtn-1 {
+	background-color: cornsilk;
+}
+
+.container-1 ul {
+	list-style: none;
+	display: flex;
+	margin-left: 4px;
+}
+
+li {
+	margin-left: 40px;
+	font-size: 15px;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+main {
+	background-image: url("./bg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
